@@ -11,25 +11,33 @@ swap the first two elements of l_a (nothing will happen if there aren’t enough
 
 • sb :
 swap the first two elements of l_b (nothing will happen if there aren’t enough elements).
-• sc
+• sc :
 sa and sb at the same time.
-• pa
+
+• pa :
 take the first element from l_b and move it to the first position on the l_a list (nothing will happen if
 l_b is empty).
-• pb
+
+• pb :
 take the first element from l_a and move it to the first position on the l_b list (nothing will happen if
 l_a is empty).
-• ra
+
+• ra :
 rotate l_a toward the beginning, the first element will become the last.
-• rb
+
+• rb :
 rotate l_b toward the beginning, the first element will become the last.
-• rr
+
+• rr :
 ra and rb at the same time.
-• rra
+
+• rra :
 rotate l_a toward the end, the last element will become the first.
-• rrb
+
+• rrb :
 rotate l_b toward the end, the last element will become the first.
-• rrr
+
+• rrr :
 rra and rrb at the same time.
 
 You must create a program in which l_a is given as parameter (all numbers are valid and can fit in an integer).
