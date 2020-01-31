@@ -1,6 +1,14 @@
 # Pushswap
 THE PROJECT _ _ _ _ _ _ _ _ _ _ _
 
+The only system calls allowed are the following ones:
+
+• write
+
+• malloc
+
+• free
+
 The game is made up of two lists of numbers named l_a and l_b.
 In the beginning, l_b will be empty and l_a will contain a certain amount of positive or negative numbers.
 The objective of the game is to sort l_a.
