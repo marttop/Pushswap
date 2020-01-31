@@ -6,9 +6,10 @@ In the beginning, l_b will be empty and l_a will contain a certain amount of pos
 The objective of the game is to sort l_a.
 In order to accomplish this, you will only have access to the following operation:
 
-• sa
+• sa :
 swap the first two elements of l_a (nothing will happen if there aren’t enough elements).
-• sb
+
+• sb :
 swap the first two elements of l_b (nothing will happen if there aren’t enough elements).
 • sc
 sa and sb at the same time.
